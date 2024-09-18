@@ -1,0 +1,29 @@
+Trend indicators
+Simple Moving Average (SMA): Identifying long-term trends.
+Exponential Moving Average (EMA): More sensitive to recent price changes.
+MACD (Moving Average Convergence Divergence): Identify trend changes and strengths.
+ADX (Average Directional Index): measures the strength of the trend.
+Volatility indicators
+RSI (Relative Strength Index): Identifying the oversold situation.
+Stochastic Oscillator: identifying buy and sell points.
+CCI (Commodity Channel Index): identifying the saturation points of buying and selling.
+ATR (Average True Range): A measure of price volatility.
+Bands and tapes
+Bollinger Bands: identify swings and potential reversal points.
+Andrews Pitchfork: identification of support and resistance levels.
+Graphic patterns
+Candlestick patterns: such as doji pattern, evening star, etc.
+Price patterns: such as the head and shoulders pattern, the pattern of two peaks and two valleys.
+Triangle patterns: ascending, descending and symmetrical triangles.
+Volume indicators
+OBV (On-Balance Volume): Evaluation of volume flow.
+Volume Price Trend (VPT): Combination of volume and price to identify trends.
+Chaikin Money Flow (CMF): Assessing buying and selling pressure.
+Support and resistance levels
+Horizontal support and resistance levels: using price points that have acted as support or resistance in the past.
+Trend Lines: Lines drawn on a price chart that show support and resistance levels.
+Fibonacci: Using Fibonacci levels to predict possible support and resistance points.
+Other indicators
+Parabolic SAR: detection of stop and reversal points.
+Ichimoku Cloud: identifying support and resistance levels and determining trend direction.
+Williams %R: Identification of oversold conditions.

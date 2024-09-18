@@ -1,0 +1,944 @@
+{
+    "1946-01-01 00:00:00": {
+        "business_inventories": NaN
+    },
+    "1946-04-01 00:00:00": {
+        "business_inventories": NaN
+    },
+    "1946-07-01 00:00:00": {
+        "business_inventories": NaN
+    },
+    "1946-10-01 00:00:00": {
+        "business_inventories": NaN
+    },
+    "1947-01-01 00:00:00": {
+        "business_inventories": 0.495
+    },
+    "1947-04-01 00:00:00": {
+        "business_inventories": -1.24
+    },
+    "1947-07-01 00:00:00": {
+        "business_inventories": -2.917
+    },
+    "1947-10-01 00:00:00": {
+        "business_inventories": 1.456
+    },
+    "1948-01-01 00:00:00": {
+        "business_inventories": 3.626
+    },
+    "1948-04-01 00:00:00": {
+        "business_inventories": 5.859
+    },
+    "1948-07-01 00:00:00": {
+        "business_inventories": 7.152
+    },
+    "1948-10-01 00:00:00": {
+        "business_inventories": 5.997
+    },
+    "1949-01-01 00:00:00": {
+        "business_inventories": 0.388
+    },
+    "1949-04-01 00:00:00": {
+        "business_inventories": -5.148
+    },
+    "1949-07-01 00:00:00": {
+        "business_inventories": -1.307
+    },
+    "1949-10-01 00:00:00": {
+        "business_inventories": -4.699
+    },
+    "1950-01-01 00:00:00": {
+        "business_inventories": 2.024
+    },
+    "1950-04-01 00:00:00": {
+        "business_inventories": 2.833
+    },
+    "1950-07-01 00:00:00": {
+        "business_inventories": 4.177
+    },
+    "1950-10-01 00:00:00": {
+        "business_inventories": 14.044
+    },
+    "1951-01-01 00:00:00": {
+        "business_inventories": 10.386
+    },
+    "1951-04-01 00:00:00": {
+        "business_inventories": 14.792
+    },
+    "1951-07-01 00:00:00": {
+        "business_inventories": 9.74
+    },
+    "1951-10-01 00:00:00": {
+        "business_inventories": 4.719
+    },
+    "1952-01-01 00:00:00": {
+        "business_inventories": 4.732
+    },
+    "1952-04-01 00:00:00": {
+        "business_inventories": -1.523
+    },
+    "1952-07-01 00:00:00": {
+        "business_inventories": 5.574
+    },
+    "1952-10-01 00:00:00": {
+        "business_inventories": 5.274
+    },
+    "1953-01-01 00:00:00": {
+        "business_inventories": 3.89
+    },
+    "1953-04-01 00:00:00": {
+        "business_inventories": 3.577
+    },
+    "1953-07-01 00:00:00": {
+        "business_inventories": 2.331
+    },
+    "1953-10-01 00:00:00": {
+        "business_inventories": -2.006
+    },
+    "1954-01-01 00:00:00": {
+        "business_inventories": -1.966
+    },
+    "1954-04-01 00:00:00": {
+        "business_inventories": -3.378
+    },
+    "1954-07-01 00:00:00": {
+        "business_inventories": -2.091
+    },
+    "1954-10-01 00:00:00": {
+        "business_inventories": -0.316
+    },
+    "1955-01-01 00:00:00": {
+        "business_inventories": 3.804
+    },
+    "1955-04-01 00:00:00": {
+        "business_inventories": 4.62
+    },
+    "1955-07-01 00:00:00": {
+        "business_inventories": 4.295
+    },
+    "1955-10-01 00:00:00": {
+        "business_inventories": 7.233
+    },
+    "1956-01-01 00:00:00": {
+        "business_inventories": 6.398
+    },
+    "1956-04-01 00:00:00": {
+        "business_inventories": 3.585
+    },
+    "1956-07-01 00:00:00": {
+        "business_inventories": 3.569
+    },
+    "1956-10-01 00:00:00": {
+        "business_inventories": 2.244
+    },
+    "1957-01-01 00:00:00": {
+        "business_inventories": 2.162
+    },
+    "1957-04-01 00:00:00": {
+        "business_inventories": 2.657
+    },
+    "1957-07-01 00:00:00": {
+        "business_inventories": 2.808
+    },
+    "1957-10-01 00:00:00": {
+        "business_inventories": -4.518
+    },
+    "1958-01-01 00:00:00": {
+        "business_inventories": -4.009
+    },
+    "1958-04-01 00:00:00": {
+        "business_inventories": -4.235
+    },
+    "1958-07-01 00:00:00": {
+        "business_inventories": 1.547
+    },
+    "1958-10-01 00:00:00": {
+        "business_inventories": 5.235
+    },
+    "1959-01-01 00:00:00": {
+        "business_inventories": 3.876
+    },
+    "1959-04-01 00:00:00": {
+        "business_inventories": 7.288
+    },
+    "1959-07-01 00:00:00": {
+        "business_inventories": 0.384
+    },
+    "1959-10-01 00:00:00": {
+        "business_inventories": 4.12
+    },
+    "1960-01-01 00:00:00": {
+        "business_inventories": 11.2
+    },
+    "1960-04-01 00:00:00": {
+        "business_inventories": 3.224
+    },
+    "1960-07-01 00:00:00": {
+        "business_inventories": 4.32
+    },
+    "1960-10-01 00:00:00": {
+        "business_inventories": -5.812
+    },
+    "1961-01-01 00:00:00": {
+        "business_inventories": -2.548
+    },
+    "1961-04-01 00:00:00": {
+        "business_inventories": 1.792
+    },
+    "1961-07-01 00:00:00": {
+        "business_inventories": 6.656
+    },
+    "1961-10-01 00:00:00": {
+        "business_inventories": 5.996
+    },
+    "1962-01-01 00:00:00": {
+        "business_inventories": 9.408
+    },
+    "1962-04-01 00:00:00": {
+        "business_inventories": 5.444
+    },
+    "1962-07-01 00:00:00": {
+        "business_inventories": 6.188
+    },
+    "1962-10-01 00:00:00": {
+        "business_inventories": 3.364
+    },
+    "1963-01-01 00:00:00": {
+        "business_inventories": 6.868
+    },
+    "1963-04-01 00:00:00": {
+        "business_inventories": 4.836
+    },
+    "1963-07-01 00:00:00": {
+        "business_inventories": 5.716
+    },
+    "1963-10-01 00:00:00": {
+        "business_inventories": 5.064
+    },
+    "1964-01-01 00:00:00": {
+        "business_inventories": 5.124
+    },
+    "1964-04-01 00:00:00": {
+        "business_inventories": 4.456
+    },
+    "1964-07-01 00:00:00": {
+        "business_inventories": 4.692
+    },
+    "1964-10-01 00:00:00": {
+        "business_inventories": 5.016
+    },
+    "1965-01-01 00:00:00": {
+        "business_inventories": 11.544
+    },
+    "1965-04-01 00:00:00": {
+        "business_inventories": 8.568
+    },
+    "1965-07-01 00:00:00": {
+        "business_inventories": 9.292
+    },
+    "1965-10-01 00:00:00": {
+        "business_inventories": 7.584
+    },
+    "1966-01-01 00:00:00": {
+        "business_inventories": 13.872
+    },
+    "1966-04-01 00:00:00": {
+        "business_inventories": 12.316
+    },
+    "1966-07-01 00:00:00": {
+        "business_inventories": 11.852
+    },
+    "1966-10-01 00:00:00": {
+        "business_inventories": 16.504
+    },
+    "1967-01-01 00:00:00": {
+        "business_inventories": 15.423
+    },
+    "1967-04-01 00:00:00": {
+        "business_inventories": 6.341
+    },
+    "1967-07-01 00:00:00": {
+        "business_inventories": 9.263
+    },
+    "1967-10-01 00:00:00": {
+        "business_inventories": 8.433
+    },
+    "1968-01-01 00:00:00": {
+        "business_inventories": 8.438
+    },
+    "1968-04-01 00:00:00": {
+        "business_inventories": 14.082
+    },
+    "1968-07-01 00:00:00": {
+        "business_inventories": 7.681
+    },
+    "1968-10-01 00:00:00": {
+        "business_inventories": 6.007
+    },
+    "1969-01-01 00:00:00": {
+        "business_inventories": 11.489
+    },
+    "1969-04-01 00:00:00": {
+        "business_inventories": 9.222
+    },
+    "1969-07-01 00:00:00": {
+        "business_inventories": 10.194
+    },
+    "1969-10-01 00:00:00": {
+        "business_inventories": 5.787
+    },
+    "1970-01-01 00:00:00": {
+        "business_inventories": 1.823
+    },
+    "1970-04-01 00:00:00": {
+        "business_inventories": 5.081
+    },
+    "1970-07-01 00:00:00": {
+        "business_inventories": 5.083
+    },
+    "1970-10-01 00:00:00": {
+        "business_inventories": -3.984
+    },
+    "1971-01-01 00:00:00": {
+        "business_inventories": 12.254
+    },
+    "1971-04-01 00:00:00": {
+        "business_inventories": 10.875
+    },
+    "1971-07-01 00:00:00": {
+        "business_inventories": 10.188
+    },
+    "1971-10-01 00:00:00": {
+        "business_inventories": -0.295
+    },
+    "1972-01-01 00:00:00": {
+        "business_inventories": 3.227
+    },
+    "1972-04-01 00:00:00": {
+        "business_inventories": 11.998
+    },
+    "1972-07-01 00:00:00": {
+        "business_inventories": 13.715
+    },
+    "1972-10-01 00:00:00": {
+        "business_inventories": 7.491
+    },
+    "1973-01-01 00:00:00": {
+        "business_inventories": 10.55
+    },
+    "1973-04-01 00:00:00": {
+        "business_inventories": 18.206
+    },
+    "1973-07-01 00:00:00": {
+        "business_inventories": 9.761
+    },
+    "1973-10-01 00:00:00": {
+        "business_inventories": 24.993
+    },
+    "1974-01-01 00:00:00": {
+        "business_inventories": 12.519
+    },
+    "1974-04-01 00:00:00": {
+        "business_inventories": 17.416
+    },
+    "1974-07-01 00:00:00": {
+        "business_inventories": 5.578
+    },
+    "1974-10-01 00:00:00": {
+        "business_inventories": 20.446
+    },
+    "1975-01-01 00:00:00": {
+        "business_inventories": -10.028
+    },
+    "1975-04-01 00:00:00": {
+        "business_inventories": -13.954
+    },
+    "1975-07-01 00:00:00": {
+        "business_inventories": -1.388
+    },
+    "1975-10-01 00:00:00": {
+        "business_inventories": 0.348
+    },
+    "1976-01-01 00:00:00": {
+        "business_inventories": 14.693
+    },
+    "1976-04-01 00:00:00": {
+        "business_inventories": 22.448
+    },
+    "1976-07-01 00:00:00": {
+        "business_inventories": 20.807
+    },
+    "1976-10-01 00:00:00": {
+        "business_inventories": 10.518
+    },
+    "1977-01-01 00:00:00": {
+        "business_inventories": 14.822
+    },
+    "1977-04-01 00:00:00": {
+        "business_inventories": 19.469
+    },
+    "1977-07-01 00:00:00": {
+        "business_inventories": 30.884
+    },
+    "1977-10-01 00:00:00": {
+        "business_inventories": 24.121
+    },
+    "1978-01-01 00:00:00": {
+        "business_inventories": 25.453
+    },
+    "1978-04-01 00:00:00": {
+        "business_inventories": 24.257
+    },
+    "1978-07-01 00:00:00": {
+        "business_inventories": 24.966
+    },
+    "1978-10-01 00:00:00": {
+        "business_inventories": 28.487
+    },
+    "1979-01-01 00:00:00": {
+        "business_inventories": 23.852
+    },
+    "1979-04-01 00:00:00": {
+        "business_inventories": 27.401
+    },
+    "1979-07-01 00:00:00": {
+        "business_inventories": 12.131
+    },
+    "1979-10-01 00:00:00": {
+        "business_inventories": 8.553
+    },
+    "1980-01-01 00:00:00": {
+        "business_inventories": 9.899
+    },
+    "1980-04-01 00:00:00": {
+        "business_inventories": 7.75
+    },
+    "1980-07-01 00:00:00": {
+        "business_inventories": -33.855
+    },
+    "1980-10-01 00:00:00": {
+        "business_inventories": -9.118
+    },
+    "1981-01-01 00:00:00": {
+        "business_inventories": 38.755
+    },
+    "1981-04-01 00:00:00": {
+        "business_inventories": 11.713
+    },
+    "1981-07-01 00:00:00": {
+        "business_inventories": 43.96
+    },
+    "1981-10-01 00:00:00": {
+        "business_inventories": 24.807
+    },
+    "1982-01-01 00:00:00": {
+        "business_inventories": -21.466
+    },
+    "1982-04-01 00:00:00": {
+        "business_inventories": -4.166
+    },
+    "1982-07-01 00:00:00": {
+        "business_inventories": 5.798
+    },
+    "1982-10-01 00:00:00": {
+        "business_inventories": -39.82
+    },
+    "1983-01-01 00:00:00": {
+        "business_inventories": -35.06
+    },
+    "1983-04-01 00:00:00": {
+        "business_inventories": -7.672
+    },
+    "1983-07-01 00:00:00": {
+        "business_inventories": -4.204
+    },
+    "1983-10-01 00:00:00": {
+        "business_inventories": 23.932
+    },
+    "1984-01-01 00:00:00": {
+        "business_inventories": 72.982
+    },
+    "1984-04-01 00:00:00": {
+        "business_inventories": 69.321
+    },
+    "1984-07-01 00:00:00": {
+        "business_inventories": 71.338
+    },
+    "1984-10-01 00:00:00": {
+        "business_inventories": 47.979
+    },
+    "1985-01-01 00:00:00": {
+        "business_inventories": 16.23
+    },
+    "1985-04-01 00:00:00": {
+        "business_inventories": 21.646
+    },
+    "1985-07-01 00:00:00": {
+        "business_inventories": 16.303
+    },
+    "1985-10-01 00:00:00": {
+        "business_inventories": 33.119
+    },
+    "1986-01-01 00:00:00": {
+        "business_inventories": 30.397
+    },
+    "1986-04-01 00:00:00": {
+        "business_inventories": 15.663
+    },
+    "1986-07-01 00:00:00": {
+        "business_inventories": -7.019
+    },
+    "1986-10-01 00:00:00": {
+        "business_inventories": -12.759
+    },
+    "1987-01-01 00:00:00": {
+        "business_inventories": 27.973
+    },
+    "1987-04-01 00:00:00": {
+        "business_inventories": 16.524
+    },
+    "1987-07-01 00:00:00": {
+        "business_inventories": 1.017
+    },
+    "1987-10-01 00:00:00": {
+        "business_inventories": 63.082
+    },
+    "1988-01-01 00:00:00": {
+        "business_inventories": 16.956
+    },
+    "1988-04-01 00:00:00": {
+        "business_inventories": 19.648
+    },
+    "1988-07-01 00:00:00": {
+        "business_inventories": 18.181
+    },
+    "1988-10-01 00:00:00": {
+        "business_inventories": 19.144
+    },
+    "1989-01-01 00:00:00": {
+        "business_inventories": 48.137
+    },
+    "1989-04-01 00:00:00": {
+        "business_inventories": 36.257
+    },
+    "1989-07-01 00:00:00": {
+        "business_inventories": 9.826
+    },
+    "1989-10-01 00:00:00": {
+        "business_inventories": 16.553
+    },
+    "1990-01-01 00:00:00": {
+        "business_inventories": 13.954
+    },
+    "1990-04-01 00:00:00": {
+        "business_inventories": 33.7
+    },
+    "1990-07-01 00:00:00": {
+        "business_inventories": 21.866
+    },
+    "1990-10-01 00:00:00": {
+        "business_inventories": -11.335
+    },
+    "1991-01-01 00:00:00": {
+        "business_inventories": -15.52
+    },
+    "1991-04-01 00:00:00": {
+        "business_inventories": -18.033
+    },
+    "1991-07-01 00:00:00": {
+        "business_inventories": 0.843
+    },
+    "1991-10-01 00:00:00": {
+        "business_inventories": 31.133
+    },
+    "1992-01-01 00:00:00": {
+        "business_inventories": 0.246
+    },
+    "1992-04-01 00:00:00": {
+        "business_inventories": 23.209
+    },
+    "1992-07-01 00:00:00": {
+        "business_inventories": 20.512
+    },
+    "1992-10-01 00:00:00": {
+        "business_inventories": 21.344
+    },
+    "1993-01-01 00:00:00": {
+        "business_inventories": 35.94
+    },
+    "1993-04-01 00:00:00": {
+        "business_inventories": 24.104
+    },
+    "1993-07-01 00:00:00": {
+        "business_inventories": 6.598
+    },
+    "1993-10-01 00:00:00": {
+        "business_inventories": 16.612
+    },
+    "1994-01-01 00:00:00": {
+        "business_inventories": 45.362
+    },
+    "1994-04-01 00:00:00": {
+        "business_inventories": 81.411
+    },
+    "1994-07-01 00:00:00": {
+        "business_inventories": 53.223
+    },
+    "1994-10-01 00:00:00": {
+        "business_inventories": 75.142
+    },
+    "1995-01-01 00:00:00": {
+        "business_inventories": 61.179
+    },
+    "1995-04-01 00:00:00": {
+        "business_inventories": 33.759
+    },
+    "1995-07-01 00:00:00": {
+        "business_inventories": 11.326
+    },
+    "1995-10-01 00:00:00": {
+        "business_inventories": 18.431
+    },
+    "1996-01-01 00:00:00": {
+        "business_inventories": 6.881
+    },
+    "1996-04-01 00:00:00": {
+        "business_inventories": 30.521
+    },
+    "1996-07-01 00:00:00": {
+        "business_inventories": 51.07
+    },
+    "1996-10-01 00:00:00": {
+        "business_inventories": 34.725
+    },
+    "1997-01-01 00:00:00": {
+        "business_inventories": 49.745
+    },
+    "1997-04-01 00:00:00": {
+        "business_inventories": 88.374
+    },
+    "1997-07-01 00:00:00": {
+        "business_inventories": 67.935
+    },
+    "1997-10-01 00:00:00": {
+        "business_inventories": 77.652
+    },
+    "1998-01-01 00:00:00": {
+        "business_inventories": 105.1
+    },
+    "1998-04-01 00:00:00": {
+        "business_inventories": 37.34
+    },
+    "1998-07-01 00:00:00": {
+        "business_inventories": 52.42
+    },
+    "1998-10-01 00:00:00": {
+        "business_inventories": 60.017
+    },
+    "1999-01-01 00:00:00": {
+        "business_inventories": 83.394
+    },
+    "1999-04-01 00:00:00": {
+        "business_inventories": 35.111
+    },
+    "1999-07-01 00:00:00": {
+        "business_inventories": 40.516
+    },
+    "1999-10-01 00:00:00": {
+        "business_inventories": 84.241
+    },
+    "2000-01-01 00:00:00": {
+        "business_inventories": 16.157
+    },
+    "2000-04-01 00:00:00": {
+        "business_inventories": 90.444
+    },
+    "2000-07-01 00:00:00": {
+        "business_inventories": 57.233
+    },
+    "2000-10-01 00:00:00": {
+        "business_inventories": 54.344
+    },
+    "2001-01-01 00:00:00": {
+        "business_inventories": -30.631
+    },
+    "2001-04-01 00:00:00": {
+        "business_inventories": -11.56
+    },
+    "2001-07-01 00:00:00": {
+        "business_inventories": -30.116
+    },
+    "2001-10-01 00:00:00": {
+        "business_inventories": -80.829
+    },
+    "2002-01-01 00:00:00": {
+        "business_inventories": 0.293
+    },
+    "2002-04-01 00:00:00": {
+        "business_inventories": 21.169
+    },
+    "2002-07-01 00:00:00": {
+        "business_inventories": 25.433
+    },
+    "2002-10-01 00:00:00": {
+        "business_inventories": 33.004
+    },
+    "2003-01-01 00:00:00": {
+        "business_inventories": 26.081
+    },
+    "2003-04-01 00:00:00": {
+        "business_inventories": -6.488
+    },
+    "2003-07-01 00:00:00": {
+        "business_inventories": 0.438
+    },
+    "2003-10-01 00:00:00": {
+        "business_inventories": 36.345
+    },
+    "2004-01-01 00:00:00": {
+        "business_inventories": 46.025
+    },
+    "2004-04-01 00:00:00": {
+        "business_inventories": 73.989
+    },
+    "2004-07-01 00:00:00": {
+        "business_inventories": 64.166
+    },
+    "2004-10-01 00:00:00": {
+        "business_inventories": 72.089
+    },
+    "2005-01-01 00:00:00": {
+        "business_inventories": 102.477
+    },
+    "2005-04-01 00:00:00": {
+        "business_inventories": 28.835
+    },
+    "2005-07-01 00:00:00": {
+        "business_inventories": 12.353
+    },
+    "2005-10-01 00:00:00": {
+        "business_inventories": 86.388
+    },
+    "2006-01-01 00:00:00": {
+        "business_inventories": 78.214
+    },
+    "2006-04-01 00:00:00": {
+        "business_inventories": 75.513
+    },
+    "2006-07-01 00:00:00": {
+        "business_inventories": 78.754
+    },
+    "2006-10-01 00:00:00": {
+        "business_inventories": 43.476
+    },
+    "2007-01-01 00:00:00": {
+        "business_inventories": 21.372
+    },
+    "2007-04-01 00:00:00": {
+        "business_inventories": 42.225
+    },
+    "2007-07-01 00:00:00": {
+        "business_inventories": 44.922
+    },
+    "2007-10-01 00:00:00": {
+        "business_inventories": 27.281
+    },
+    "2008-01-01 00:00:00": {
+        "business_inventories": -16.673
+    },
+    "2008-04-01 00:00:00": {
+        "business_inventories": -22.252
+    },
+    "2008-07-01 00:00:00": {
+        "business_inventories": -15.825
+    },
+    "2008-10-01 00:00:00": {
+        "business_inventories": -62.215
+    },
+    "2009-01-01 00:00:00": {
+        "business_inventories": -150.996
+    },
+    "2009-04-01 00:00:00": {
+        "business_inventories": -196.001
+    },
+    "2009-07-01 00:00:00": {
+        "business_inventories": -204.006
+    },
+    "2009-10-01 00:00:00": {
+        "business_inventories": -52.084
+    },
+    "2010-01-01 00:00:00": {
+        "business_inventories": -1.237
+    },
+    "2010-04-01 00:00:00": {
+        "business_inventories": 36.708
+    },
+    "2010-07-01 00:00:00": {
+        "business_inventories": 112.897
+    },
+    "2010-10-01 00:00:00": {
+        "business_inventories": 67.301
+    },
+    "2011-01-01 00:00:00": {
+        "business_inventories": 32.078
+    },
+    "2011-04-01 00:00:00": {
+        "business_inventories": 61.047
+    },
+    "2011-07-01 00:00:00": {
+        "business_inventories": -12.033
+    },
+    "2011-10-01 00:00:00": {
+        "business_inventories": 103.956
+    },
+    "2012-01-01 00:00:00": {
+        "business_inventories": 80.278
+    },
+    "2012-04-01 00:00:00": {
+        "business_inventories": 91.406
+    },
+    "2012-07-01 00:00:00": {
+        "business_inventories": 84.429
+    },
+    "2012-10-01 00:00:00": {
+        "business_inventories": 28.734
+    },
+    "2013-01-01 00:00:00": {
+        "business_inventories": 85.223
+    },
+    "2013-04-01 00:00:00": {
+        "business_inventories": 82.693
+    },
+    "2013-07-01 00:00:00": {
+        "business_inventories": 136.649
+    },
+    "2013-10-01 00:00:00": {
+        "business_inventories": 117.343
+    },
+    "2014-01-01 00:00:00": {
+        "business_inventories": 51.995
+    },
+    "2014-04-01 00:00:00": {
+        "business_inventories": 97.753
+    },
+    "2014-07-01 00:00:00": {
+        "business_inventories": 103.934
+    },
+    "2014-10-01 00:00:00": {
+        "business_inventories": 85.485
+    },
+    "2015-01-01 00:00:00": {
+        "business_inventories": 175.242
+    },
+    "2015-04-01 00:00:00": {
+        "business_inventories": 151.248
+    },
+    "2015-07-01 00:00:00": {
+        "business_inventories": 126.851
+    },
+    "2015-10-01 00:00:00": {
+        "business_inventories": 107.15
+    },
+    "2016-01-01 00:00:00": {
+        "business_inventories": 62.318
+    },
+    "2016-04-01 00:00:00": {
+        "business_inventories": 30.484
+    },
+    "2016-07-01 00:00:00": {
+        "business_inventories": 5.324
+    },
+    "2016-10-01 00:00:00": {
+        "business_inventories": 58.147
+    },
+    "2017-01-01 00:00:00": {
+        "business_inventories": 6.311
+    },
+    "2017-04-01 00:00:00": {
+        "business_inventories": 25.528
+    },
+    "2017-07-01 00:00:00": {
+        "business_inventories": 54.859
+    },
+    "2017-10-01 00:00:00": {
+        "business_inventories": 43.998
+    },
+    "2018-01-01 00:00:00": {
+        "business_inventories": 35.045
+    },
+    "2018-04-01 00:00:00": {
+        "business_inventories": -3.402
+    },
+    "2018-07-01 00:00:00": {
+        "business_inventories": 98.664
+    },
+    "2018-10-01 00:00:00": {
+        "business_inventories": 95.324
+    },
+    "2019-01-01 00:00:00": {
+        "business_inventories": 115.733
+    },
+    "2019-04-01 00:00:00": {
+        "business_inventories": 76.222
+    },
+    "2019-07-01 00:00:00": {
+        "business_inventories": 69.799
+    },
+    "2019-10-01 00:00:00": {
+        "business_inventories": 26.91
+    },
+    "2020-01-01 00:00:00": {
+        "business_inventories": -32.95
+    },
+    "2020-04-01 00:00:00": {
+        "business_inventories": -294.961
+    },
+    "2020-07-01 00:00:00": {
+        "business_inventories": 94.856
+    },
+    "2020-10-01 00:00:00": {
+        "business_inventories": 82.781
+    },
+    "2021-01-01 00:00:00": {
+        "business_inventories": -44.364
+    },
+    "2021-04-01 00:00:00": {
+        "business_inventories": -161.226
+    },
+    "2021-07-01 00:00:00": {
+        "business_inventories": -3.276
+    },
+    "2021-10-01 00:00:00": {
+        "business_inventories": 255.544
+    },
+    "2022-01-01 00:00:00": {
+        "business_inventories": 248.977
+    },
+    "2022-04-01 00:00:00": {
+        "business_inventories": 120.177
+    },
+    "2022-07-01 00:00:00": {
+        "business_inventories": 82.328
+    },
+    "2022-10-01 00:00:00": {
+        "business_inventories": 177.743
+    },
+    "2023-01-01 00:00:00": {
+        "business_inventories": 23.696
+    },
+    "2023-04-01 00:00:00": {
+        "business_inventories": 18.557
+    },
+    "2023-07-01 00:00:00": {
+        "business_inventories": 102.033
+    },
+    "2023-10-01 00:00:00": {
+        "business_inventories": 70.141
+    },
+    "2024-01-01 00:00:00": {
+        "business_inventories": 35.972
+    },
+    "2024-04-01 00:00:00": {
+        "business_inventories": 92.887
+    }
+}

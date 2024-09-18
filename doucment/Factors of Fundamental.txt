@@ -1,0 +1,33 @@
+Company financial data:
+
+Revenue
+Net Income
+Earnings before interest and taxes (EBIT)
+Earnings before interest, taxes, depreciation and amortization (EBITDA)
+Profit Margin
+dividend
+Dividend Payout Ratio
+Earnings Per Share - EPS
+Price-to-earnings ratio (P/E Ratio)
+P/B Ratio
+return on equity (ROE)
+return on assets (ROA)
+Free Cash Flow
+Debt to Equity Ratio (D/E)
+Current Ratio
+Quick Ratio
+balance sheet
+Income Statement
+Cash Flow Statement
+
+Economic data:
+
+Interest Rate
+inflation rate
+Exchange Rate
+GDP Growth Rate
+Unemployment Rate
+Consumer Price Index (CPI)
+Producer Price Index (PPI)
+Trade Balance
+Changes in monetary and fiscal policies
