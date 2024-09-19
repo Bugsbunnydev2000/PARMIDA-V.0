@@ -1,0 +1,2072 @@
+{
+    "1967-01-01 00:00:00": {
+        "capacity_utilization": 89.3902
+    },
+    "1967-02-01 00:00:00": {
+        "capacity_utilization": 87.975
+    },
+    "1967-03-01 00:00:00": {
+        "capacity_utilization": 87.0835
+    },
+    "1967-04-01 00:00:00": {
+        "capacity_utilization": 87.5089
+    },
+    "1967-05-01 00:00:00": {
+        "capacity_utilization": 86.3566
+    },
+    "1967-06-01 00:00:00": {
+        "capacity_utilization": 85.9603
+    },
+    "1967-07-01 00:00:00": {
+        "capacity_utilization": 85.3833
+    },
+    "1967-08-01 00:00:00": {
+        "capacity_utilization": 86.6339
+    },
+    "1967-09-01 00:00:00": {
+        "capacity_utilization": 86.1122
+    },
+    "1967-10-01 00:00:00": {
+        "capacity_utilization": 86.4325
+    },
+    "1967-11-01 00:00:00": {
+        "capacity_utilization": 87.2856
+    },
+    "1967-12-01 00:00:00": {
+        "capacity_utilization": 87.8417
+    },
+    "1968-01-01 00:00:00": {
+        "capacity_utilization": 87.3848
+    },
+    "1968-02-01 00:00:00": {
+        "capacity_utilization": 87.3505
+    },
+    "1968-03-01 00:00:00": {
+        "capacity_utilization": 87.2771
+    },
+    "1968-04-01 00:00:00": {
+        "capacity_utilization": 87.0597
+    },
+    "1968-05-01 00:00:00": {
+        "capacity_utilization": 87.6912
+    },
+    "1968-06-01 00:00:00": {
+        "capacity_utilization": 87.6698
+    },
+    "1968-07-01 00:00:00": {
+        "capacity_utilization": 87.1949
+    },
+    "1968-08-01 00:00:00": {
+        "capacity_utilization": 87.0994
+    },
+    "1968-09-01 00:00:00": {
+        "capacity_utilization": 87.0919
+    },
+    "1968-10-01 00:00:00": {
+        "capacity_utilization": 86.9292
+    },
+    "1968-11-01 00:00:00": {
+        "capacity_utilization": 87.7164
+    },
+    "1968-12-01 00:00:00": {
+        "capacity_utilization": 87.6575
+    },
+    "1969-01-01 00:00:00": {
+        "capacity_utilization": 87.8611
+    },
+    "1969-02-01 00:00:00": {
+        "capacity_utilization": 88.1058
+    },
+    "1969-03-01 00:00:00": {
+        "capacity_utilization": 88.4785
+    },
+    "1969-04-01 00:00:00": {
+        "capacity_utilization": 87.8384
+    },
+    "1969-05-01 00:00:00": {
+        "capacity_utilization": 87.195
+    },
+    "1969-06-01 00:00:00": {
+        "capacity_utilization": 87.7348
+    },
+    "1969-07-01 00:00:00": {
+        "capacity_utilization": 87.8864
+    },
+    "1969-08-01 00:00:00": {
+        "capacity_utilization": 87.7781
+    },
+    "1969-09-01 00:00:00": {
+        "capacity_utilization": 87.4506
+    },
+    "1969-10-01 00:00:00": {
+        "capacity_utilization": 87.1703
+    },
+    "1969-11-01 00:00:00": {
+        "capacity_utilization": 86.0477
+    },
+    "1969-12-01 00:00:00": {
+        "capacity_utilization": 85.5187
+    },
+    "1970-01-01 00:00:00": {
+        "capacity_utilization": 83.658
+    },
+    "1970-02-01 00:00:00": {
+        "capacity_utilization": 83.3417
+    },
+    "1970-03-01 00:00:00": {
+        "capacity_utilization": 82.9738
+    },
+    "1970-04-01 00:00:00": {
+        "capacity_utilization": 82.5031
+    },
+    "1970-05-01 00:00:00": {
+        "capacity_utilization": 82.1514
+    },
+    "1970-06-01 00:00:00": {
+        "capacity_utilization": 81.6327
+    },
+    "1970-07-01 00:00:00": {
+        "capacity_utilization": 81.5808
+    },
+    "1970-08-01 00:00:00": {
+        "capacity_utilization": 81.1851
+    },
+    "1970-09-01 00:00:00": {
+        "capacity_utilization": 80.3785
+    },
+    "1970-10-01 00:00:00": {
+        "capacity_utilization": 78.53
+    },
+    "1970-11-01 00:00:00": {
+        "capacity_utilization": 77.8167
+    },
+    "1970-12-01 00:00:00": {
+        "capacity_utilization": 79.3621
+    },
+    "1971-01-01 00:00:00": {
+        "capacity_utilization": 79.7493
+    },
+    "1971-02-01 00:00:00": {
+        "capacity_utilization": 79.395
+    },
+    "1971-03-01 00:00:00": {
+        "capacity_utilization": 79.1076
+    },
+    "1971-04-01 00:00:00": {
+        "capacity_utilization": 79.3504
+    },
+    "1971-05-01 00:00:00": {
+        "capacity_utilization": 79.5515
+    },
+    "1971-06-01 00:00:00": {
+        "capacity_utilization": 79.6838
+    },
+    "1971-07-01 00:00:00": {
+        "capacity_utilization": 79.2527
+    },
+    "1971-08-01 00:00:00": {
+        "capacity_utilization": 78.595
+    },
+    "1971-09-01 00:00:00": {
+        "capacity_utilization": 79.6725
+    },
+    "1971-10-01 00:00:00": {
+        "capacity_utilization": 80.0684
+    },
+    "1971-11-01 00:00:00": {
+        "capacity_utilization": 80.208
+    },
+    "1971-12-01 00:00:00": {
+        "capacity_utilization": 80.9324
+    },
+    "1972-01-01 00:00:00": {
+        "capacity_utilization": 82.6617
+    },
+    "1972-02-01 00:00:00": {
+        "capacity_utilization": 83.3036
+    },
+    "1972-03-01 00:00:00": {
+        "capacity_utilization": 83.6835
+    },
+    "1972-04-01 00:00:00": {
+        "capacity_utilization": 84.3072
+    },
+    "1972-05-01 00:00:00": {
+        "capacity_utilization": 84.1065
+    },
+    "1972-06-01 00:00:00": {
+        "capacity_utilization": 84.1147
+    },
+    "1972-07-01 00:00:00": {
+        "capacity_utilization": 83.8181
+    },
+    "1972-08-01 00:00:00": {
+        "capacity_utilization": 84.7411
+    },
+    "1972-09-01 00:00:00": {
+        "capacity_utilization": 85.1601
+    },
+    "1972-10-01 00:00:00": {
+        "capacity_utilization": 86.0048
+    },
+    "1972-11-01 00:00:00": {
+        "capacity_utilization": 86.7608
+    },
+    "1972-12-01 00:00:00": {
+        "capacity_utilization": 87.4648
+    },
+    "1973-01-01 00:00:00": {
+        "capacity_utilization": 87.8201
+    },
+    "1973-02-01 00:00:00": {
+        "capacity_utilization": 88.7918
+    },
+    "1973-03-01 00:00:00": {
+        "capacity_utilization": 88.5335
+    },
+    "1973-04-01 00:00:00": {
+        "capacity_utilization": 88.1132
+    },
+    "1973-05-01 00:00:00": {
+        "capacity_utilization": 88.3877
+    },
+    "1973-06-01 00:00:00": {
+        "capacity_utilization": 88.1945
+    },
+    "1973-07-01 00:00:00": {
+        "capacity_utilization": 88.216
+    },
+    "1973-08-01 00:00:00": {
+        "capacity_utilization": 87.793
+    },
+    "1973-09-01 00:00:00": {
+        "capacity_utilization": 88.1943
+    },
+    "1973-10-01 00:00:00": {
+        "capacity_utilization": 88.6136
+    },
+    "1973-11-01 00:00:00": {
+        "capacity_utilization": 88.732
+    },
+    "1973-12-01 00:00:00": {
+        "capacity_utilization": 88.2077
+    },
+    "1974-01-01 00:00:00": {
+        "capacity_utilization": 87.3558
+    },
+    "1974-02-01 00:00:00": {
+        "capacity_utilization": 86.8371
+    },
+    "1974-03-01 00:00:00": {
+        "capacity_utilization": 86.5891
+    },
+    "1974-04-01 00:00:00": {
+        "capacity_utilization": 86.1068
+    },
+    "1974-05-01 00:00:00": {
+        "capacity_utilization": 86.5741
+    },
+    "1974-06-01 00:00:00": {
+        "capacity_utilization": 86.1998
+    },
+    "1974-07-01 00:00:00": {
+        "capacity_utilization": 86.1758
+    },
+    "1974-08-01 00:00:00": {
+        "capacity_utilization": 85.0768
+    },
+    "1974-09-01 00:00:00": {
+        "capacity_utilization": 84.9128
+    },
+    "1974-10-01 00:00:00": {
+        "capacity_utilization": 84.4745
+    },
+    "1974-11-01 00:00:00": {
+        "capacity_utilization": 81.5419
+    },
+    "1974-12-01 00:00:00": {
+        "capacity_utilization": 78.4687
+    },
+    "1975-01-01 00:00:00": {
+        "capacity_utilization": 77.2476
+    },
+    "1975-02-01 00:00:00": {
+        "capacity_utilization": 75.358
+    },
+    "1975-03-01 00:00:00": {
+        "capacity_utilization": 74.4065
+    },
+    "1975-04-01 00:00:00": {
+        "capacity_utilization": 74.4307
+    },
+    "1975-05-01 00:00:00": {
+        "capacity_utilization": 74.0959
+    },
+    "1975-06-01 00:00:00": {
+        "capacity_utilization": 74.4461
+    },
+    "1975-07-01 00:00:00": {
+        "capacity_utilization": 75.1022
+    },
+    "1975-08-01 00:00:00": {
+        "capacity_utilization": 75.7189
+    },
+    "1975-09-01 00:00:00": {
+        "capacity_utilization": 76.5718
+    },
+    "1975-10-01 00:00:00": {
+        "capacity_utilization": 76.773
+    },
+    "1975-11-01 00:00:00": {
+        "capacity_utilization": 76.744
+    },
+    "1975-12-01 00:00:00": {
+        "capacity_utilization": 77.6451
+    },
+    "1976-01-01 00:00:00": {
+        "capacity_utilization": 78.5312
+    },
+    "1976-02-01 00:00:00": {
+        "capacity_utilization": 79.1705
+    },
+    "1976-03-01 00:00:00": {
+        "capacity_utilization": 79.174
+    },
+    "1976-04-01 00:00:00": {
+        "capacity_utilization": 79.4214
+    },
+    "1976-05-01 00:00:00": {
+        "capacity_utilization": 79.5834
+    },
+    "1976-06-01 00:00:00": {
+        "capacity_utilization": 79.4974
+    },
+    "1976-07-01 00:00:00": {
+        "capacity_utilization": 79.7719
+    },
+    "1976-08-01 00:00:00": {
+        "capacity_utilization": 80.1388
+    },
+    "1976-09-01 00:00:00": {
+        "capacity_utilization": 80.2183
+    },
+    "1976-10-01 00:00:00": {
+        "capacity_utilization": 80.012
+    },
+    "1976-11-01 00:00:00": {
+        "capacity_utilization": 81.0488
+    },
+    "1976-12-01 00:00:00": {
+        "capacity_utilization": 81.719
+    },
+    "1977-01-01 00:00:00": {
+        "capacity_utilization": 80.9557
+    },
+    "1977-02-01 00:00:00": {
+        "capacity_utilization": 82.0259
+    },
+    "1977-03-01 00:00:00": {
+        "capacity_utilization": 82.8357
+    },
+    "1977-04-01 00:00:00": {
+        "capacity_utilization": 83.4184
+    },
+    "1977-05-01 00:00:00": {
+        "capacity_utilization": 83.8383
+    },
+    "1977-06-01 00:00:00": {
+        "capacity_utilization": 84.2431
+    },
+    "1977-07-01 00:00:00": {
+        "capacity_utilization": 84.1164
+    },
+    "1977-08-01 00:00:00": {
+        "capacity_utilization": 83.9516
+    },
+    "1977-09-01 00:00:00": {
+        "capacity_utilization": 84.0465
+    },
+    "1977-10-01 00:00:00": {
+        "capacity_utilization": 83.9313
+    },
+    "1977-11-01 00:00:00": {
+        "capacity_utilization": 83.8462
+    },
+    "1977-12-01 00:00:00": {
+        "capacity_utilization": 83.7459
+    },
+    "1978-01-01 00:00:00": {
+        "capacity_utilization": 82.2914
+    },
+    "1978-02-01 00:00:00": {
+        "capacity_utilization": 82.5033
+    },
+    "1978-03-01 00:00:00": {
+        "capacity_utilization": 83.8599
+    },
+    "1978-04-01 00:00:00": {
+        "capacity_utilization": 85.2903
+    },
+    "1978-05-01 00:00:00": {
+        "capacity_utilization": 85.4734
+    },
+    "1978-06-01 00:00:00": {
+        "capacity_utilization": 85.7913
+    },
+    "1978-07-01 00:00:00": {
+        "capacity_utilization": 85.4956
+    },
+    "1978-08-01 00:00:00": {
+        "capacity_utilization": 85.6075
+    },
+    "1978-09-01 00:00:00": {
+        "capacity_utilization": 85.5854
+    },
+    "1978-10-01 00:00:00": {
+        "capacity_utilization": 86.0076
+    },
+    "1978-11-01 00:00:00": {
+        "capacity_utilization": 86.4334
+    },
+    "1978-12-01 00:00:00": {
+        "capacity_utilization": 86.6336
+    },
+    "1979-01-01 00:00:00": {
+        "capacity_utilization": 85.9296
+    },
+    "1979-02-01 00:00:00": {
+        "capacity_utilization": 86.1169
+    },
+    "1979-03-01 00:00:00": {
+        "capacity_utilization": 86.1486
+    },
+    "1979-04-01 00:00:00": {
+        "capacity_utilization": 84.9029
+    },
+    "1979-05-01 00:00:00": {
+        "capacity_utilization": 85.4247
+    },
+    "1979-06-01 00:00:00": {
+        "capacity_utilization": 85.2142
+    },
+    "1979-07-01 00:00:00": {
+        "capacity_utilization": 84.861
+    },
+    "1979-08-01 00:00:00": {
+        "capacity_utilization": 84.1027
+    },
+    "1979-09-01 00:00:00": {
+        "capacity_utilization": 83.9007
+    },
+    "1979-10-01 00:00:00": {
+        "capacity_utilization": 84.2922
+    },
+    "1979-11-01 00:00:00": {
+        "capacity_utilization": 83.9769
+    },
+    "1979-12-01 00:00:00": {
+        "capacity_utilization": 83.8639
+    },
+    "1980-01-01 00:00:00": {
+        "capacity_utilization": 84.1462
+    },
+    "1980-02-01 00:00:00": {
+        "capacity_utilization": 84.02
+    },
+    "1980-03-01 00:00:00": {
+        "capacity_utilization": 83.516
+    },
+    "1980-04-01 00:00:00": {
+        "capacity_utilization": 81.7161
+    },
+    "1980-05-01 00:00:00": {
+        "capacity_utilization": 79.5737
+    },
+    "1980-06-01 00:00:00": {
+        "capacity_utilization": 78.4079
+    },
+    "1980-07-01 00:00:00": {
+        "capacity_utilization": 77.7106
+    },
+    "1980-08-01 00:00:00": {
+        "capacity_utilization": 77.8165
+    },
+    "1980-09-01 00:00:00": {
+        "capacity_utilization": 78.9666
+    },
+    "1980-10-01 00:00:00": {
+        "capacity_utilization": 79.8138
+    },
+    "1980-11-01 00:00:00": {
+        "capacity_utilization": 80.9797
+    },
+    "1980-12-01 00:00:00": {
+        "capacity_utilization": 81.3443
+    },
+    "1981-01-01 00:00:00": {
+        "capacity_utilization": 80.6568
+    },
+    "1981-02-01 00:00:00": {
+        "capacity_utilization": 80.1474
+    },
+    "1981-03-01 00:00:00": {
+        "capacity_utilization": 80.3697
+    },
+    "1981-04-01 00:00:00": {
+        "capacity_utilization": 79.8469
+    },
+    "1981-05-01 00:00:00": {
+        "capacity_utilization": 80.1126
+    },
+    "1981-06-01 00:00:00": {
+        "capacity_utilization": 80.3378
+    },
+    "1981-07-01 00:00:00": {
+        "capacity_utilization": 80.6666
+    },
+    "1981-08-01 00:00:00": {
+        "capacity_utilization": 80.3719
+    },
+    "1981-09-01 00:00:00": {
+        "capacity_utilization": 79.7957
+    },
+    "1981-10-01 00:00:00": {
+        "capacity_utilization": 78.9918
+    },
+    "1981-11-01 00:00:00": {
+        "capacity_utilization": 77.892
+    },
+    "1981-12-01 00:00:00": {
+        "capacity_utilization": 76.8713
+    },
+    "1982-01-01 00:00:00": {
+        "capacity_utilization": 75.129
+    },
+    "1982-02-01 00:00:00": {
+        "capacity_utilization": 76.4962
+    },
+    "1982-03-01 00:00:00": {
+        "capacity_utilization": 75.821
+    },
+    "1982-04-01 00:00:00": {
+        "capacity_utilization": 74.9732
+    },
+    "1982-05-01 00:00:00": {
+        "capacity_utilization": 74.3382
+    },
+    "1982-06-01 00:00:00": {
+        "capacity_utilization": 74.0174
+    },
+    "1982-07-01 00:00:00": {
+        "capacity_utilization": 73.6498
+    },
+    "1982-08-01 00:00:00": {
+        "capacity_utilization": 72.8767
+    },
+    "1982-09-01 00:00:00": {
+        "capacity_utilization": 72.596
+    },
+    "1982-10-01 00:00:00": {
+        "capacity_utilization": 71.8246
+    },
+    "1982-11-01 00:00:00": {
+        "capacity_utilization": 71.5313
+    },
+    "1982-12-01 00:00:00": {
+        "capacity_utilization": 70.9671
+    },
+    "1983-01-01 00:00:00": {
+        "capacity_utilization": 72.2371
+    },
+    "1983-02-01 00:00:00": {
+        "capacity_utilization": 71.7603
+    },
+    "1983-03-01 00:00:00": {
+        "capacity_utilization": 72.3279
+    },
+    "1983-04-01 00:00:00": {
+        "capacity_utilization": 73.2201
+    },
+    "1983-05-01 00:00:00": {
+        "capacity_utilization": 73.6506
+    },
+    "1983-06-01 00:00:00": {
+        "capacity_utilization": 74.0776
+    },
+    "1983-07-01 00:00:00": {
+        "capacity_utilization": 75.1574
+    },
+    "1983-08-01 00:00:00": {
+        "capacity_utilization": 76.0182
+    },
+    "1983-09-01 00:00:00": {
+        "capacity_utilization": 77.0799
+    },
+    "1983-10-01 00:00:00": {
+        "capacity_utilization": 77.6273
+    },
+    "1983-11-01 00:00:00": {
+        "capacity_utilization": 77.9119
+    },
+    "1983-12-01 00:00:00": {
+        "capacity_utilization": 78.221
+    },
+    "1984-01-01 00:00:00": {
+        "capacity_utilization": 79.6824
+    },
+    "1984-02-01 00:00:00": {
+        "capacity_utilization": 79.9369
+    },
+    "1984-03-01 00:00:00": {
+        "capacity_utilization": 80.1983
+    },
+    "1984-04-01 00:00:00": {
+        "capacity_utilization": 80.5448
+    },
+    "1984-05-01 00:00:00": {
+        "capacity_utilization": 80.8277
+    },
+    "1984-06-01 00:00:00": {
+        "capacity_utilization": 80.9628
+    },
+    "1984-07-01 00:00:00": {
+        "capacity_utilization": 81.02
+    },
+    "1984-08-01 00:00:00": {
+        "capacity_utilization": 80.9418
+    },
+    "1984-09-01 00:00:00": {
+        "capacity_utilization": 80.5325
+    },
+    "1984-10-01 00:00:00": {
+        "capacity_utilization": 80.3146
+    },
+    "1984-11-01 00:00:00": {
+        "capacity_utilization": 80.3938
+    },
+    "1984-12-01 00:00:00": {
+        "capacity_utilization": 80.242
+    },
+    "1985-01-01 00:00:00": {
+        "capacity_utilization": 80.0074
+    },
+    "1985-02-01 00:00:00": {
+        "capacity_utilization": 80.0484
+    },
+    "1985-03-01 00:00:00": {
+        "capacity_utilization": 79.9728
+    },
+    "1985-04-01 00:00:00": {
+        "capacity_utilization": 79.6074
+    },
+    "1985-05-01 00:00:00": {
+        "capacity_utilization": 79.5562
+    },
+    "1985-06-01 00:00:00": {
+        "capacity_utilization": 79.3321
+    },
+    "1985-07-01 00:00:00": {
+        "capacity_utilization": 78.7591
+    },
+    "1985-08-01 00:00:00": {
+        "capacity_utilization": 78.8441
+    },
+    "1985-09-01 00:00:00": {
+        "capacity_utilization": 78.975
+    },
+    "1985-10-01 00:00:00": {
+        "capacity_utilization": 78.5461
+    },
+    "1985-11-01 00:00:00": {
+        "capacity_utilization": 78.6751
+    },
+    "1985-12-01 00:00:00": {
+        "capacity_utilization": 79.3194
+    },
+    "1986-01-01 00:00:00": {
+        "capacity_utilization": 79.6087
+    },
+    "1986-02-01 00:00:00": {
+        "capacity_utilization": 78.9467
+    },
+    "1986-03-01 00:00:00": {
+        "capacity_utilization": 78.2817
+    },
+    "1986-04-01 00:00:00": {
+        "capacity_utilization": 78.2697
+    },
+    "1986-05-01 00:00:00": {
+        "capacity_utilization": 78.3224
+    },
+    "1986-06-01 00:00:00": {
+        "capacity_utilization": 77.9238
+    },
+    "1986-07-01 00:00:00": {
+        "capacity_utilization": 78.3151
+    },
+    "1986-08-01 00:00:00": {
+        "capacity_utilization": 78.0871
+    },
+    "1986-09-01 00:00:00": {
+        "capacity_utilization": 78.204
+    },
+    "1986-10-01 00:00:00": {
+        "capacity_utilization": 78.4345
+    },
+    "1986-11-01 00:00:00": {
+        "capacity_utilization": 78.6327
+    },
+    "1986-12-01 00:00:00": {
+        "capacity_utilization": 79.2674
+    },
+    "1987-01-01 00:00:00": {
+        "capacity_utilization": 78.8411
+    },
+    "1987-02-01 00:00:00": {
+        "capacity_utilization": 79.7613
+    },
+    "1987-03-01 00:00:00": {
+        "capacity_utilization": 79.732
+    },
+    "1987-04-01 00:00:00": {
+        "capacity_utilization": 80.1127
+    },
+    "1987-05-01 00:00:00": {
+        "capacity_utilization": 80.4695
+    },
+    "1987-06-01 00:00:00": {
+        "capacity_utilization": 80.7548
+    },
+    "1987-07-01 00:00:00": {
+        "capacity_utilization": 81.1593
+    },
+    "1987-08-01 00:00:00": {
+        "capacity_utilization": 81.6305
+    },
+    "1987-09-01 00:00:00": {
+        "capacity_utilization": 81.8226
+    },
+    "1987-10-01 00:00:00": {
+        "capacity_utilization": 82.8037
+    },
+    "1987-11-01 00:00:00": {
+        "capacity_utilization": 83.1057
+    },
+    "1987-12-01 00:00:00": {
+        "capacity_utilization": 83.4671
+    },
+    "1988-01-01 00:00:00": {
+        "capacity_utilization": 83.3646
+    },
+    "1988-02-01 00:00:00": {
+        "capacity_utilization": 83.7161
+    },
+    "1988-03-01 00:00:00": {
+        "capacity_utilization": 83.8432
+    },
+    "1988-04-01 00:00:00": {
+        "capacity_utilization": 84.2967
+    },
+    "1988-05-01 00:00:00": {
+        "capacity_utilization": 84.084
+    },
+    "1988-06-01 00:00:00": {
+        "capacity_utilization": 84.288
+    },
+    "1988-07-01 00:00:00": {
+        "capacity_utilization": 84.2603
+    },
+    "1988-08-01 00:00:00": {
+        "capacity_utilization": 84.6355
+    },
+    "1988-09-01 00:00:00": {
+        "capacity_utilization": 84.308
+    },
+    "1988-10-01 00:00:00": {
+        "capacity_utilization": 84.6144
+    },
+    "1988-11-01 00:00:00": {
+        "capacity_utilization": 84.7506
+    },
+    "1988-12-01 00:00:00": {
+        "capacity_utilization": 85.0433
+    },
+    "1989-01-01 00:00:00": {
+        "capacity_utilization": 85.1871
+    },
+    "1989-02-01 00:00:00": {
+        "capacity_utilization": 84.6881
+    },
+    "1989-03-01 00:00:00": {
+        "capacity_utilization": 84.7698
+    },
+    "1989-04-01 00:00:00": {
+        "capacity_utilization": 84.59
+    },
+    "1989-05-01 00:00:00": {
+        "capacity_utilization": 83.9611
+    },
+    "1989-06-01 00:00:00": {
+        "capacity_utilization": 83.784
+    },
+    "1989-07-01 00:00:00": {
+        "capacity_utilization": 82.7913
+    },
+    "1989-08-01 00:00:00": {
+        "capacity_utilization": 83.4055
+    },
+    "1989-09-01 00:00:00": {
+        "capacity_utilization": 82.9302
+    },
+    "1989-10-01 00:00:00": {
+        "capacity_utilization": 82.6235
+    },
+    "1989-11-01 00:00:00": {
+        "capacity_utilization": 82.6971
+    },
+    "1989-12-01 00:00:00": {
+        "capacity_utilization": 82.9629
+    },
+    "1990-01-01 00:00:00": {
+        "capacity_utilization": 82.328
+    },
+    "1990-02-01 00:00:00": {
+        "capacity_utilization": 82.8759
+    },
+    "1990-03-01 00:00:00": {
+        "capacity_utilization": 83.0757
+    },
+    "1990-04-01 00:00:00": {
+        "capacity_utilization": 82.7018
+    },
+    "1990-05-01 00:00:00": {
+        "capacity_utilization": 82.7671
+    },
+    "1990-06-01 00:00:00": {
+        "capacity_utilization": 82.8785
+    },
+    "1990-07-01 00:00:00": {
+        "capacity_utilization": 82.5834
+    },
+    "1990-08-01 00:00:00": {
+        "capacity_utilization": 82.737
+    },
+    "1990-09-01 00:00:00": {
+        "capacity_utilization": 82.6219
+    },
+    "1990-10-01 00:00:00": {
+        "capacity_utilization": 81.9938
+    },
+    "1990-11-01 00:00:00": {
+        "capacity_utilization": 80.8637
+    },
+    "1990-12-01 00:00:00": {
+        "capacity_utilization": 80.2062
+    },
+    "1991-01-01 00:00:00": {
+        "capacity_utilization": 79.8532
+    },
+    "1991-02-01 00:00:00": {
+        "capacity_utilization": 79.1938
+    },
+    "1991-03-01 00:00:00": {
+        "capacity_utilization": 78.6775
+    },
+    "1991-04-01 00:00:00": {
+        "capacity_utilization": 78.813
+    },
+    "1991-05-01 00:00:00": {
+        "capacity_utilization": 79.5366
+    },
+    "1991-06-01 00:00:00": {
+        "capacity_utilization": 80.1091
+    },
+    "1991-07-01 00:00:00": {
+        "capacity_utilization": 80.2553
+    },
+    "1991-08-01 00:00:00": {
+        "capacity_utilization": 80.1865
+    },
+    "1991-09-01 00:00:00": {
+        "capacity_utilization": 80.7568
+    },
+    "1991-10-01 00:00:00": {
+        "capacity_utilization": 80.5727
+    },
+    "1991-11-01 00:00:00": {
+        "capacity_utilization": 80.3561
+    },
+    "1991-12-01 00:00:00": {
+        "capacity_utilization": 79.8698
+    },
+    "1992-01-01 00:00:00": {
+        "capacity_utilization": 79.3038
+    },
+    "1992-02-01 00:00:00": {
+        "capacity_utilization": 79.7133
+    },
+    "1992-03-01 00:00:00": {
+        "capacity_utilization": 80.2192
+    },
+    "1992-04-01 00:00:00": {
+        "capacity_utilization": 80.6613
+    },
+    "1992-05-01 00:00:00": {
+        "capacity_utilization": 80.7461
+    },
+    "1992-06-01 00:00:00": {
+        "capacity_utilization": 80.6077
+    },
+    "1992-07-01 00:00:00": {
+        "capacity_utilization": 81.1531
+    },
+    "1992-08-01 00:00:00": {
+        "capacity_utilization": 80.5215
+    },
+    "1992-09-01 00:00:00": {
+        "capacity_utilization": 80.6052
+    },
+    "1992-10-01 00:00:00": {
+        "capacity_utilization": 80.9878
+    },
+    "1992-11-01 00:00:00": {
+        "capacity_utilization": 81.1373
+    },
+    "1992-12-01 00:00:00": {
+        "capacity_utilization": 81.1101
+    },
+    "1993-01-01 00:00:00": {
+        "capacity_utilization": 81.2846
+    },
+    "1993-02-01 00:00:00": {
+        "capacity_utilization": 81.5417
+    },
+    "1993-03-01 00:00:00": {
+        "capacity_utilization": 81.3332
+    },
+    "1993-04-01 00:00:00": {
+        "capacity_utilization": 81.4361
+    },
+    "1993-05-01 00:00:00": {
+        "capacity_utilization": 81.0138
+    },
+    "1993-06-01 00:00:00": {
+        "capacity_utilization": 81.0769
+    },
+    "1993-07-01 00:00:00": {
+        "capacity_utilization": 81.1612
+    },
+    "1993-08-01 00:00:00": {
+        "capacity_utilization": 80.9411
+    },
+    "1993-09-01 00:00:00": {
+        "capacity_utilization": 81.2154
+    },
+    "1993-10-01 00:00:00": {
+        "capacity_utilization": 81.6695
+    },
+    "1993-11-01 00:00:00": {
+        "capacity_utilization": 81.8847
+    },
+    "1993-12-01 00:00:00": {
+        "capacity_utilization": 82.1813
+    },
+    "1994-01-01 00:00:00": {
+        "capacity_utilization": 82.2458
+    },
+    "1994-02-01 00:00:00": {
+        "capacity_utilization": 82.0964
+    },
+    "1994-03-01 00:00:00": {
+        "capacity_utilization": 82.7001
+    },
+    "1994-04-01 00:00:00": {
+        "capacity_utilization": 82.9607
+    },
+    "1994-05-01 00:00:00": {
+        "capacity_utilization": 83.1048
+    },
+    "1994-06-01 00:00:00": {
+        "capacity_utilization": 83.409
+    },
+    "1994-07-01 00:00:00": {
+        "capacity_utilization": 83.2543
+    },
+    "1994-08-01 00:00:00": {
+        "capacity_utilization": 83.5424
+    },
+    "1994-09-01 00:00:00": {
+        "capacity_utilization": 83.5225
+    },
+    "1994-10-01 00:00:00": {
+        "capacity_utilization": 83.9295
+    },
+    "1994-11-01 00:00:00": {
+        "capacity_utilization": 84.2193
+    },
+    "1994-12-01 00:00:00": {
+        "capacity_utilization": 84.7763
+    },
+    "1995-01-01 00:00:00": {
+        "capacity_utilization": 84.6624
+    },
+    "1995-02-01 00:00:00": {
+        "capacity_utilization": 84.2817
+    },
+    "1995-03-01 00:00:00": {
+        "capacity_utilization": 84.1264
+    },
+    "1995-04-01 00:00:00": {
+        "capacity_utilization": 83.7001
+    },
+    "1995-05-01 00:00:00": {
+        "capacity_utilization": 83.8228
+    },
+    "1995-06-01 00:00:00": {
+        "capacity_utilization": 83.8038
+    },
+    "1995-07-01 00:00:00": {
+        "capacity_utilization": 83.1565
+    },
+    "1995-08-01 00:00:00": {
+        "capacity_utilization": 83.9385
+    },
+    "1995-09-01 00:00:00": {
+        "capacity_utilization": 83.9436
+    },
+    "1995-10-01 00:00:00": {
+        "capacity_utilization": 83.4711
+    },
+    "1995-11-01 00:00:00": {
+        "capacity_utilization": 83.3377
+    },
+    "1995-12-01 00:00:00": {
+        "capacity_utilization": 83.2653
+    },
+    "1996-01-01 00:00:00": {
+        "capacity_utilization": 82.4552
+    },
+    "1996-02-01 00:00:00": {
+        "capacity_utilization": 83.2784
+    },
+    "1996-03-01 00:00:00": {
+        "capacity_utilization": 82.7819
+    },
+    "1996-04-01 00:00:00": {
+        "capacity_utilization": 83.2259
+    },
+    "1996-05-01 00:00:00": {
+        "capacity_utilization": 83.4707
+    },
+    "1996-06-01 00:00:00": {
+        "capacity_utilization": 83.7026
+    },
+    "1996-07-01 00:00:00": {
+        "capacity_utilization": 83.3175
+    },
+    "1996-08-01 00:00:00": {
+        "capacity_utilization": 83.3523
+    },
+    "1996-09-01 00:00:00": {
+        "capacity_utilization": 83.4837
+    },
+    "1996-10-01 00:00:00": {
+        "capacity_utilization": 83.0746
+    },
+    "1996-11-01 00:00:00": {
+        "capacity_utilization": 83.4158
+    },
+    "1996-12-01 00:00:00": {
+        "capacity_utilization": 83.5292
+    },
+    "1997-01-01 00:00:00": {
+        "capacity_utilization": 83.2734
+    },
+    "1997-02-01 00:00:00": {
+        "capacity_utilization": 83.8357
+    },
+    "1997-03-01 00:00:00": {
+        "capacity_utilization": 83.9386
+    },
+    "1997-04-01 00:00:00": {
+        "capacity_utilization": 83.5773
+    },
+    "1997-05-01 00:00:00": {
+        "capacity_utilization": 83.6033
+    },
+    "1997-06-01 00:00:00": {
+        "capacity_utilization": 83.5281
+    },
+    "1997-07-01 00:00:00": {
+        "capacity_utilization": 83.75
+    },
+    "1997-08-01 00:00:00": {
+        "capacity_utilization": 84.0989
+    },
+    "1997-09-01 00:00:00": {
+        "capacity_utilization": 84.3562
+    },
+    "1997-10-01 00:00:00": {
+        "capacity_utilization": 84.5733
+    },
+    "1997-11-01 00:00:00": {
+        "capacity_utilization": 84.6992
+    },
+    "1997-12-01 00:00:00": {
+        "capacity_utilization": 84.5069
+    },
+    "1998-01-01 00:00:00": {
+        "capacity_utilization": 84.3255
+    },
+    "1998-02-01 00:00:00": {
+        "capacity_utilization": 83.9236
+    },
+    "1998-03-01 00:00:00": {
+        "capacity_utilization": 83.4139
+    },
+    "1998-04-01 00:00:00": {
+        "capacity_utilization": 83.1697
+    },
+    "1998-05-01 00:00:00": {
+        "capacity_utilization": 83.1957
+    },
+    "1998-06-01 00:00:00": {
+        "capacity_utilization": 82.2129
+    },
+    "1998-07-01 00:00:00": {
+        "capacity_utilization": 81.4369
+    },
+    "1998-08-01 00:00:00": {
+        "capacity_utilization": 82.6826
+    },
+    "1998-09-01 00:00:00": {
+        "capacity_utilization": 82.1974
+    },
+    "1998-10-01 00:00:00": {
+        "capacity_utilization": 82.3679
+    },
+    "1998-11-01 00:00:00": {
+        "capacity_utilization": 81.9145
+    },
+    "1998-12-01 00:00:00": {
+        "capacity_utilization": 81.8823
+    },
+    "1999-01-01 00:00:00": {
+        "capacity_utilization": 81.8698
+    },
+    "1999-02-01 00:00:00": {
+        "capacity_utilization": 82.0031
+    },
+    "1999-03-01 00:00:00": {
+        "capacity_utilization": 81.8486
+    },
+    "1999-04-01 00:00:00": {
+        "capacity_utilization": 81.7151
+    },
+    "1999-05-01 00:00:00": {
+        "capacity_utilization": 81.9082
+    },
+    "1999-06-01 00:00:00": {
+        "capacity_utilization": 81.5543
+    },
+    "1999-07-01 00:00:00": {
+        "capacity_utilization": 81.7388
+    },
+    "1999-08-01 00:00:00": {
+        "capacity_utilization": 81.8026
+    },
+    "1999-09-01 00:00:00": {
+        "capacity_utilization": 81.1741
+    },
+    "1999-10-01 00:00:00": {
+        "capacity_utilization": 81.9218
+    },
+    "1999-11-01 00:00:00": {
+        "capacity_utilization": 82.0702
+    },
+    "1999-12-01 00:00:00": {
+        "capacity_utilization": 82.4391
+    },
+    "2000-01-01 00:00:00": {
+        "capacity_utilization": 82.0932
+    },
+    "2000-02-01 00:00:00": {
+        "capacity_utilization": 82.0943
+    },
+    "2000-03-01 00:00:00": {
+        "capacity_utilization": 82.134
+    },
+    "2000-04-01 00:00:00": {
+        "capacity_utilization": 82.3741
+    },
+    "2000-05-01 00:00:00": {
+        "capacity_utilization": 82.335
+    },
+    "2000-06-01 00:00:00": {
+        "capacity_utilization": 82.1191
+    },
+    "2000-07-01 00:00:00": {
+        "capacity_utilization": 81.7036
+    },
+    "2000-08-01 00:00:00": {
+        "capacity_utilization": 81.2193
+    },
+    "2000-09-01 00:00:00": {
+        "capacity_utilization": 81.2955
+    },
+    "2000-10-01 00:00:00": {
+        "capacity_utilization": 80.7298
+    },
+    "2000-11-01 00:00:00": {
+        "capacity_utilization": 80.4815
+    },
+    "2000-12-01 00:00:00": {
+        "capacity_utilization": 79.9449
+    },
+    "2001-01-01 00:00:00": {
+        "capacity_utilization": 79.2915
+    },
+    "2001-02-01 00:00:00": {
+        "capacity_utilization": 78.5159
+    },
+    "2001-03-01 00:00:00": {
+        "capacity_utilization": 78.0741
+    },
+    "2001-04-01 00:00:00": {
+        "capacity_utilization": 77.561
+    },
+    "2001-05-01 00:00:00": {
+        "capacity_utilization": 76.9249
+    },
+    "2001-06-01 00:00:00": {
+        "capacity_utilization": 76.3013
+    },
+    "2001-07-01 00:00:00": {
+        "capacity_utilization": 75.6377
+    },
+    "2001-08-01 00:00:00": {
+        "capacity_utilization": 75.3826
+    },
+    "2001-09-01 00:00:00": {
+        "capacity_utilization": 74.7982
+    },
+    "2001-10-01 00:00:00": {
+        "capacity_utilization": 74.4059
+    },
+    "2001-11-01 00:00:00": {
+        "capacity_utilization": 73.8179
+    },
+    "2001-12-01 00:00:00": {
+        "capacity_utilization": 73.6523
+    },
+    "2002-01-01 00:00:00": {
+        "capacity_utilization": 74.042
+    },
+    "2002-02-01 00:00:00": {
+        "capacity_utilization": 73.9315
+    },
+    "2002-03-01 00:00:00": {
+        "capacity_utilization": 74.401
+    },
+    "2002-04-01 00:00:00": {
+        "capacity_utilization": 74.683
+    },
+    "2002-05-01 00:00:00": {
+        "capacity_utilization": 74.948
+    },
+    "2002-06-01 00:00:00": {
+        "capacity_utilization": 75.5244
+    },
+    "2002-07-01 00:00:00": {
+        "capacity_utilization": 75.4765
+    },
+    "2002-08-01 00:00:00": {
+        "capacity_utilization": 75.39
+    },
+    "2002-09-01 00:00:00": {
+        "capacity_utilization": 75.4643
+    },
+    "2002-10-01 00:00:00": {
+        "capacity_utilization": 75.2771
+    },
+    "2002-11-01 00:00:00": {
+        "capacity_utilization": 75.7113
+    },
+    "2002-12-01 00:00:00": {
+        "capacity_utilization": 75.3192
+    },
+    "2003-01-01 00:00:00": {
+        "capacity_utilization": 75.9737
+    },
+    "2003-02-01 00:00:00": {
+        "capacity_utilization": 76.0964
+    },
+    "2003-03-01 00:00:00": {
+        "capacity_utilization": 75.9158
+    },
+    "2003-04-01 00:00:00": {
+        "capacity_utilization": 75.471
+    },
+    "2003-05-01 00:00:00": {
+        "capacity_utilization": 75.4753
+    },
+    "2003-06-01 00:00:00": {
+        "capacity_utilization": 75.6024
+    },
+    "2003-07-01 00:00:00": {
+        "capacity_utilization": 76.0121
+    },
+    "2003-08-01 00:00:00": {
+        "capacity_utilization": 75.865
+    },
+    "2003-09-01 00:00:00": {
+        "capacity_utilization": 76.3685
+    },
+    "2003-10-01 00:00:00": {
+        "capacity_utilization": 76.4833
+    },
+    "2003-11-01 00:00:00": {
+        "capacity_utilization": 77.0141
+    },
+    "2003-12-01 00:00:00": {
+        "capacity_utilization": 77.0642
+    },
+    "2004-01-01 00:00:00": {
+        "capacity_utilization": 77.2041
+    },
+    "2004-02-01 00:00:00": {
+        "capacity_utilization": 77.6963
+    },
+    "2004-03-01 00:00:00": {
+        "capacity_utilization": 77.4077
+    },
+    "2004-04-01 00:00:00": {
+        "capacity_utilization": 77.7236
+    },
+    "2004-05-01 00:00:00": {
+        "capacity_utilization": 78.3145
+    },
+    "2004-06-01 00:00:00": {
+        "capacity_utilization": 77.724
+    },
+    "2004-07-01 00:00:00": {
+        "capacity_utilization": 78.305
+    },
+    "2004-08-01 00:00:00": {
+        "capacity_utilization": 78.3738
+    },
+    "2004-09-01 00:00:00": {
+        "capacity_utilization": 78.4547
+    },
+    "2004-10-01 00:00:00": {
+        "capacity_utilization": 79.1352
+    },
+    "2004-11-01 00:00:00": {
+        "capacity_utilization": 79.3
+    },
+    "2004-12-01 00:00:00": {
+        "capacity_utilization": 79.8779
+    },
+    "2005-01-01 00:00:00": {
+        "capacity_utilization": 80.1076
+    },
+    "2005-02-01 00:00:00": {
+        "capacity_utilization": 80.6185
+    },
+    "2005-03-01 00:00:00": {
+        "capacity_utilization": 80.4254
+    },
+    "2005-04-01 00:00:00": {
+        "capacity_utilization": 80.5049
+    },
+    "2005-05-01 00:00:00": {
+        "capacity_utilization": 80.4835
+    },
+    "2005-06-01 00:00:00": {
+        "capacity_utilization": 80.7304
+    },
+    "2005-07-01 00:00:00": {
+        "capacity_utilization": 80.3636
+    },
+    "2005-08-01 00:00:00": {
+        "capacity_utilization": 80.5144
+    },
+    "2005-09-01 00:00:00": {
+        "capacity_utilization": 78.8408
+    },
+    "2005-10-01 00:00:00": {
+        "capacity_utilization": 79.6882
+    },
+    "2005-11-01 00:00:00": {
+        "capacity_utilization": 80.4459
+    },
+    "2005-12-01 00:00:00": {
+        "capacity_utilization": 80.7149
+    },
+    "2006-01-01 00:00:00": {
+        "capacity_utilization": 80.7219
+    },
+    "2006-02-01 00:00:00": {
+        "capacity_utilization": 80.6346
+    },
+    "2006-03-01 00:00:00": {
+        "capacity_utilization": 80.693
+    },
+    "2006-04-01 00:00:00": {
+        "capacity_utilization": 80.8033
+    },
+    "2006-05-01 00:00:00": {
+        "capacity_utilization": 80.6874
+    },
+    "2006-06-01 00:00:00": {
+        "capacity_utilization": 80.8131
+    },
+    "2006-07-01 00:00:00": {
+        "capacity_utilization": 80.6047
+    },
+    "2006-08-01 00:00:00": {
+        "capacity_utilization": 80.7869
+    },
+    "2006-09-01 00:00:00": {
+        "capacity_utilization": 80.4643
+    },
+    "2006-10-01 00:00:00": {
+        "capacity_utilization": 80.1979
+    },
+    "2006-11-01 00:00:00": {
+        "capacity_utilization": 79.9873
+    },
+    "2006-12-01 00:00:00": {
+        "capacity_utilization": 80.6149
+    },
+    "2007-01-01 00:00:00": {
+        "capacity_utilization": 80.1358
+    },
+    "2007-02-01 00:00:00": {
+        "capacity_utilization": 80.7193
+    },
+    "2007-03-01 00:00:00": {
+        "capacity_utilization": 80.6791
+    },
+    "2007-04-01 00:00:00": {
+        "capacity_utilization": 81.0476
+    },
+    "2007-05-01 00:00:00": {
+        "capacity_utilization": 80.9347
+    },
+    "2007-06-01 00:00:00": {
+        "capacity_utilization": 80.8222
+    },
+    "2007-07-01 00:00:00": {
+        "capacity_utilization": 80.5906
+    },
+    "2007-08-01 00:00:00": {
+        "capacity_utilization": 80.6774
+    },
+    "2007-09-01 00:00:00": {
+        "capacity_utilization": 80.8326
+    },
+    "2007-10-01 00:00:00": {
+        "capacity_utilization": 80.5829
+    },
+    "2007-11-01 00:00:00": {
+        "capacity_utilization": 81.0492
+    },
+    "2007-12-01 00:00:00": {
+        "capacity_utilization": 81.1309
+    },
+    "2008-01-01 00:00:00": {
+        "capacity_utilization": 81.0828
+    },
+    "2008-02-01 00:00:00": {
+        "capacity_utilization": 80.8474
+    },
+    "2008-03-01 00:00:00": {
+        "capacity_utilization": 80.6547
+    },
+    "2008-04-01 00:00:00": {
+        "capacity_utilization": 80.1636
+    },
+    "2008-05-01 00:00:00": {
+        "capacity_utilization": 79.7148
+    },
+    "2008-06-01 00:00:00": {
+        "capacity_utilization": 79.5288
+    },
+    "2008-07-01 00:00:00": {
+        "capacity_utilization": 79.1573
+    },
+    "2008-08-01 00:00:00": {
+        "capacity_utilization": 77.8633
+    },
+    "2008-09-01 00:00:00": {
+        "capacity_utilization": 74.3831
+    },
+    "2008-10-01 00:00:00": {
+        "capacity_utilization": 75.0459
+    },
+    "2008-11-01 00:00:00": {
+        "capacity_utilization": 73.9671
+    },
+    "2008-12-01 00:00:00": {
+        "capacity_utilization": 71.7765
+    },
+    "2009-01-01 00:00:00": {
+        "capacity_utilization": 69.8882
+    },
+    "2009-02-01 00:00:00": {
+        "capacity_utilization": 69.3805
+    },
+    "2009-03-01 00:00:00": {
+        "capacity_utilization": 68.2145
+    },
+    "2009-04-01 00:00:00": {
+        "capacity_utilization": 67.6067
+    },
+    "2009-05-01 00:00:00": {
+        "capacity_utilization": 66.8861
+    },
+    "2009-06-01 00:00:00": {
+        "capacity_utilization": 66.6446
+    },
+    "2009-07-01 00:00:00": {
+        "capacity_utilization": 67.4381
+    },
+    "2009-08-01 00:00:00": {
+        "capacity_utilization": 68.2152
+    },
+    "2009-09-01 00:00:00": {
+        "capacity_utilization": 68.8533
+    },
+    "2009-10-01 00:00:00": {
+        "capacity_utilization": 69.0873
+    },
+    "2009-11-01 00:00:00": {
+        "capacity_utilization": 69.468
+    },
+    "2009-12-01 00:00:00": {
+        "capacity_utilization": 69.823
+    },
+    "2010-01-01 00:00:00": {
+        "capacity_utilization": 70.7084
+    },
+    "2010-02-01 00:00:00": {
+        "capacity_utilization": 71.1021
+    },
+    "2010-03-01 00:00:00": {
+        "capacity_utilization": 71.7572
+    },
+    "2010-04-01 00:00:00": {
+        "capacity_utilization": 72.1775
+    },
+    "2010-05-01 00:00:00": {
+        "capacity_utilization": 73.3305
+    },
+    "2010-06-01 00:00:00": {
+        "capacity_utilization": 73.6492
+    },
+    "2010-07-01 00:00:00": {
+        "capacity_utilization": 74.0764
+    },
+    "2010-08-01 00:00:00": {
+        "capacity_utilization": 74.479
+    },
+    "2010-09-01 00:00:00": {
+        "capacity_utilization": 74.8001
+    },
+    "2010-10-01 00:00:00": {
+        "capacity_utilization": 74.6921
+    },
+    "2010-11-01 00:00:00": {
+        "capacity_utilization": 74.8191
+    },
+    "2010-12-01 00:00:00": {
+        "capacity_utilization": 75.6199
+    },
+    "2011-01-01 00:00:00": {
+        "capacity_utilization": 75.4919
+    },
+    "2011-02-01 00:00:00": {
+        "capacity_utilization": 75.1957
+    },
+    "2011-03-01 00:00:00": {
+        "capacity_utilization": 75.9692
+    },
+    "2011-04-01 00:00:00": {
+        "capacity_utilization": 75.6918
+    },
+    "2011-05-01 00:00:00": {
+        "capacity_utilization": 75.7389
+    },
+    "2011-06-01 00:00:00": {
+        "capacity_utilization": 75.8967
+    },
+    "2011-07-01 00:00:00": {
+        "capacity_utilization": 76.1727
+    },
+    "2011-08-01 00:00:00": {
+        "capacity_utilization": 76.557
+    },
+    "2011-09-01 00:00:00": {
+        "capacity_utilization": 76.3854
+    },
+    "2011-10-01 00:00:00": {
+        "capacity_utilization": 76.7959
+    },
+    "2011-11-01 00:00:00": {
+        "capacity_utilization": 76.6551
+    },
+    "2011-12-01 00:00:00": {
+        "capacity_utilization": 76.9204
+    },
+    "2012-01-01 00:00:00": {
+        "capacity_utilization": 77.2407
+    },
+    "2012-02-01 00:00:00": {
+        "capacity_utilization": 77.3425
+    },
+    "2012-03-01 00:00:00": {
+        "capacity_utilization": 76.798
+    },
+    "2012-04-01 00:00:00": {
+        "capacity_utilization": 77.2057
+    },
+    "2012-05-01 00:00:00": {
+        "capacity_utilization": 77.233
+    },
+    "2012-06-01 00:00:00": {
+        "capacity_utilization": 77.1126
+    },
+    "2012-07-01 00:00:00": {
+        "capacity_utilization": 77.1378
+    },
+    "2012-08-01 00:00:00": {
+        "capacity_utilization": 76.6993
+    },
+    "2012-09-01 00:00:00": {
+        "capacity_utilization": 76.5385
+    },
+    "2012-10-01 00:00:00": {
+        "capacity_utilization": 76.6654
+    },
+    "2012-11-01 00:00:00": {
+        "capacity_utilization": 76.849
+    },
+    "2012-12-01 00:00:00": {
+        "capacity_utilization": 76.9607
+    },
+    "2013-01-01 00:00:00": {
+        "capacity_utilization": 76.8466
+    },
+    "2013-02-01 00:00:00": {
+        "capacity_utilization": 77.1172
+    },
+    "2013-03-01 00:00:00": {
+        "capacity_utilization": 77.3418
+    },
+    "2013-04-01 00:00:00": {
+        "capacity_utilization": 77.1785
+    },
+    "2013-05-01 00:00:00": {
+        "capacity_utilization": 77.1749
+    },
+    "2013-06-01 00:00:00": {
+        "capacity_utilization": 77.2476
+    },
+    "2013-07-01 00:00:00": {
+        "capacity_utilization": 76.9323
+    },
+    "2013-08-01 00:00:00": {
+        "capacity_utilization": 77.3333
+    },
+    "2013-09-01 00:00:00": {
+        "capacity_utilization": 77.6904
+    },
+    "2013-10-01 00:00:00": {
+        "capacity_utilization": 77.5455
+    },
+    "2013-11-01 00:00:00": {
+        "capacity_utilization": 77.6904
+    },
+    "2013-12-01 00:00:00": {
+        "capacity_utilization": 77.8052
+    },
+    "2014-01-01 00:00:00": {
+        "capacity_utilization": 77.4541
+    },
+    "2014-02-01 00:00:00": {
+        "capacity_utilization": 77.9861
+    },
+    "2014-03-01 00:00:00": {
+        "capacity_utilization": 78.7
+    },
+    "2014-04-01 00:00:00": {
+        "capacity_utilization": 78.7032
+    },
+    "2014-05-01 00:00:00": {
+        "capacity_utilization": 78.9551
+    },
+    "2014-06-01 00:00:00": {
+        "capacity_utilization": 79.1445
+    },
+    "2014-07-01 00:00:00": {
+        "capacity_utilization": 79.236
+    },
+    "2014-08-01 00:00:00": {
+        "capacity_utilization": 79.0306
+    },
+    "2014-09-01 00:00:00": {
+        "capacity_utilization": 79.1927
+    },
+    "2014-10-01 00:00:00": {
+        "capacity_utilization": 79.1358
+    },
+    "2014-11-01 00:00:00": {
+        "capacity_utilization": 79.5592
+    },
+    "2014-12-01 00:00:00": {
+        "capacity_utilization": 79.5137
+    },
+    "2015-01-01 00:00:00": {
+        "capacity_utilization": 78.8301
+    },
+    "2015-02-01 00:00:00": {
+        "capacity_utilization": 78.2911
+    },
+    "2015-03-01 00:00:00": {
+        "capacity_utilization": 77.9964
+    },
+    "2015-04-01 00:00:00": {
+        "capacity_utilization": 77.5449
+    },
+    "2015-05-01 00:00:00": {
+        "capacity_utilization": 77.1821
+    },
+    "2015-06-01 00:00:00": {
+        "capacity_utilization": 76.9429
+    },
+    "2015-07-01 00:00:00": {
+        "capacity_utilization": 77.4307
+    },
+    "2015-08-01 00:00:00": {
+        "capacity_utilization": 77.308
+    },
+    "2015-09-01 00:00:00": {
+        "capacity_utilization": 77.1039
+    },
+    "2015-10-01 00:00:00": {
+        "capacity_utilization": 76.752
+    },
+    "2015-11-01 00:00:00": {
+        "capacity_utilization": 76.2118
+    },
+    "2015-12-01 00:00:00": {
+        "capacity_utilization": 75.845
+    },
+    "2016-01-01 00:00:00": {
+        "capacity_utilization": 76.2263
+    },
+    "2016-02-01 00:00:00": {
+        "capacity_utilization": 75.8298
+    },
+    "2016-03-01 00:00:00": {
+        "capacity_utilization": 75.2411
+    },
+    "2016-04-01 00:00:00": {
+        "capacity_utilization": 75.4701
+    },
+    "2016-05-01 00:00:00": {
+        "capacity_utilization": 75.2833
+    },
+    "2016-06-01 00:00:00": {
+        "capacity_utilization": 75.6283
+    },
+    "2016-07-01 00:00:00": {
+        "capacity_utilization": 75.6916
+    },
+    "2016-08-01 00:00:00": {
+        "capacity_utilization": 75.5879
+    },
+    "2016-09-01 00:00:00": {
+        "capacity_utilization": 75.4977
+    },
+    "2016-10-01 00:00:00": {
+        "capacity_utilization": 75.5318
+    },
+    "2016-11-01 00:00:00": {
+        "capacity_utilization": 75.2309
+    },
+    "2016-12-01 00:00:00": {
+        "capacity_utilization": 75.7622
+    },
+    "2017-01-01 00:00:00": {
+        "capacity_utilization": 75.5995
+    },
+    "2017-02-01 00:00:00": {
+        "capacity_utilization": 75.3306
+    },
+    "2017-03-01 00:00:00": {
+        "capacity_utilization": 75.8344
+    },
+    "2017-04-01 00:00:00": {
+        "capacity_utilization": 76.6403
+    },
+    "2017-05-01 00:00:00": {
+        "capacity_utilization": 76.764
+    },
+    "2017-06-01 00:00:00": {
+        "capacity_utilization": 76.9926
+    },
+    "2017-07-01 00:00:00": {
+        "capacity_utilization": 76.878
+    },
+    "2017-08-01 00:00:00": {
+        "capacity_utilization": 76.6139
+    },
+    "2017-09-01 00:00:00": {
+        "capacity_utilization": 76.7906
+    },
+    "2017-10-01 00:00:00": {
+        "capacity_utilization": 77.8346
+    },
+    "2017-11-01 00:00:00": {
+        "capacity_utilization": 78.1204
+    },
+    "2017-12-01 00:00:00": {
+        "capacity_utilization": 78.3837
+    },
+    "2018-01-01 00:00:00": {
+        "capacity_utilization": 78.4548
+    },
+    "2018-02-01 00:00:00": {
+        "capacity_utilization": 78.7047
+    },
+    "2018-03-01 00:00:00": {
+        "capacity_utilization": 79.1096
+    },
+    "2018-04-01 00:00:00": {
+        "capacity_utilization": 80.0436
+    },
+    "2018-05-01 00:00:00": {
+        "capacity_utilization": 79.3092
+    },
+    "2018-06-01 00:00:00": {
+        "capacity_utilization": 79.9674
+    },
+    "2018-07-01 00:00:00": {
+        "capacity_utilization": 80.0561
+    },
+    "2018-08-01 00:00:00": {
+        "capacity_utilization": 80.5741
+    },
+    "2018-09-01 00:00:00": {
+        "capacity_utilization": 80.5711
+    },
+    "2018-10-01 00:00:00": {
+        "capacity_utilization": 80.3884
+    },
+    "2018-11-01 00:00:00": {
+        "capacity_utilization": 80.3962
+    },
+    "2018-12-01 00:00:00": {
+        "capacity_utilization": 80.358
+    },
+    "2019-01-01 00:00:00": {
+        "capacity_utilization": 79.7599
+    },
+    "2019-02-01 00:00:00": {
+        "capacity_utilization": 79.2768
+    },
+    "2019-03-01 00:00:00": {
+        "capacity_utilization": 79.2123
+    },
+    "2019-04-01 00:00:00": {
+        "capacity_utilization": 78.7037
+    },
+    "2019-05-01 00:00:00": {
+        "capacity_utilization": 78.7358
+    },
+    "2019-06-01 00:00:00": {
+        "capacity_utilization": 78.7532
+    },
+    "2019-07-01 00:00:00": {
+        "capacity_utilization": 78.2629
+    },
+    "2019-08-01 00:00:00": {
+        "capacity_utilization": 78.7796
+    },
+    "2019-09-01 00:00:00": {
+        "capacity_utilization": 78.4615
+    },
+    "2019-10-01 00:00:00": {
+        "capacity_utilization": 77.7295
+    },
+    "2019-11-01 00:00:00": {
+        "capacity_utilization": 78.1046
+    },
+    "2019-12-01 00:00:00": {
+        "capacity_utilization": 77.9031
+    },
+    "2020-01-01 00:00:00": {
+        "capacity_utilization": 77.4105
+    },
+    "2020-02-01 00:00:00": {
+        "capacity_utilization": 77.6537
+    },
+    "2020-03-01 00:00:00": {
+        "capacity_utilization": 74.5527
+    },
+    "2020-04-01 00:00:00": {
+        "capacity_utilization": 64.6982
+    },
+    "2020-05-01 00:00:00": {
+        "capacity_utilization": 65.7487
+    },
+    "2020-06-01 00:00:00": {
+        "capacity_utilization": 70.134
+    },
+    "2020-07-01 00:00:00": {
+        "capacity_utilization": 72.7591
+    },
+    "2020-08-01 00:00:00": {
+        "capacity_utilization": 73.5674
+    },
+    "2020-09-01 00:00:00": {
+        "capacity_utilization": 73.6543
+    },
+    "2020-10-01 00:00:00": {
+        "capacity_utilization": 74.2728
+    },
+    "2020-11-01 00:00:00": {
+        "capacity_utilization": 74.7456
+    },
+    "2020-12-01 00:00:00": {
+        "capacity_utilization": 75.8651
+    },
+    "2021-01-01 00:00:00": {
+        "capacity_utilization": 76.5008
+    },
+    "2021-02-01 00:00:00": {
+        "capacity_utilization": 74.0987
+    },
+    "2021-03-01 00:00:00": {
+        "capacity_utilization": 76.3455
+    },
+    "2021-04-01 00:00:00": {
+        "capacity_utilization": 76.6187
+    },
+    "2021-05-01 00:00:00": {
+        "capacity_utilization": 77.4469
+    },
+    "2021-06-01 00:00:00": {
+        "capacity_utilization": 77.9619
+    },
+    "2021-07-01 00:00:00": {
+        "capacity_utilization": 78.4327
+    },
+    "2021-08-01 00:00:00": {
+        "capacity_utilization": 78.5435
+    },
+    "2021-09-01 00:00:00": {
+        "capacity_utilization": 77.8344
+    },
+    "2021-10-01 00:00:00": {
+        "capacity_utilization": 78.9984
+    },
+    "2021-11-01 00:00:00": {
+        "capacity_utilization": 79.7955
+    },
+    "2021-12-01 00:00:00": {
+        "capacity_utilization": 79.7947
+    },
+    "2022-01-01 00:00:00": {
+        "capacity_utilization": 79.8471
+    },
+    "2022-02-01 00:00:00": {
+        "capacity_utilization": 80.357
+    },
+    "2022-03-01 00:00:00": {
+        "capacity_utilization": 80.9989
+    },
+    "2022-04-01 00:00:00": {
+        "capacity_utilization": 81.1458
+    },
+    "2022-05-01 00:00:00": {
+        "capacity_utilization": 81.1363
+    },
+    "2022-06-01 00:00:00": {
+        "capacity_utilization": 80.9375
+    },
+    "2022-07-01 00:00:00": {
+        "capacity_utilization": 81.0054
+    },
+    "2022-08-01 00:00:00": {
+        "capacity_utilization": 80.9637
+    },
+    "2022-09-01 00:00:00": {
+        "capacity_utilization": 81.0936
+    },
+    "2022-10-01 00:00:00": {
+        "capacity_utilization": 80.8551
+    },
+    "2022-11-01 00:00:00": {
+        "capacity_utilization": 80.4107
+    },
+    "2022-12-01 00:00:00": {
+        "capacity_utilization": 79.2286
+    },
+    "2023-01-01 00:00:00": {
+        "capacity_utilization": 79.7542
+    },
+    "2023-02-01 00:00:00": {
+        "capacity_utilization": 79.6087
+    },
+    "2023-03-01 00:00:00": {
+        "capacity_utilization": 79.4362
+    },
+    "2023-04-01 00:00:00": {
+        "capacity_utilization": 79.5726
+    },
+    "2023-05-01 00:00:00": {
+        "capacity_utilization": 79.2151
+    },
+    "2023-06-01 00:00:00": {
+        "capacity_utilization": 78.5968
+    },
+    "2023-07-01 00:00:00": {
+        "capacity_utilization": 78.986
+    },
+    "2023-08-01 00:00:00": {
+        "capacity_utilization": 78.8773
+    },
+    "2023-09-01 00:00:00": {
+        "capacity_utilization": 78.9282
+    },
+    "2023-10-01 00:00:00": {
+        "capacity_utilization": 78.2711
+    },
+    "2023-11-01 00:00:00": {
+        "capacity_utilization": 78.4172
+    },
+    "2023-12-01 00:00:00": {
+        "capacity_utilization": 78.1414
+    },
+    "2024-01-01 00:00:00": {
+        "capacity_utilization": 77.1945
+    },
+    "2024-02-01 00:00:00": {
+        "capacity_utilization": 77.9778
+    },
+    "2024-03-01 00:00:00": {
+        "capacity_utilization": 77.7601
+    },
+    "2024-04-01 00:00:00": {
+        "capacity_utilization": 77.715
+    },
+    "2024-05-01 00:00:00": {
+        "capacity_utilization": 78.3268
+    },
+    "2024-06-01 00:00:00": {
+        "capacity_utilization": 78.7603
+    }
+}
