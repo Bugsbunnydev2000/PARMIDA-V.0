@@ -207,6 +207,34 @@ pip install requirements.txt
 ```bash
 streamlit run MVP-TEST.py
 ```
+
+**suggestion: **
+If you want to use this source code for stock market analysis seriously, not for educational purposes:
+I suggest you do this:
+1-Change the prompt of Openai :
+```bash
+        def analyze_data_in_chunks(data, chunk_size=1000):
+            try:
+                instructions = f"Please analyze the following financial data for {stock_name}. Provide detailed analysis, identify key trends, patterns, and factors affecting the stock. Provide a forecast for future stock price and profitability:\n"
+                responses = []
+                for i in range(0, len(data), chunk_size):
+                    chunk = data[i:i + chunk_size]
+                    chunk_instructions = instructions + f"Data chunk {i // chunk_size + 1}:\n{chunk}\n\n"
+                    completion = openai.chat.completions.create(
+                        model="gpt-3.5-turbo",
+                        messages=[
+                            {"role": "system", "content": chunk_instructions},
+                            {"role": "user", "content": "Provide a concise and precise analysis and forecast."}
+                        ]
+                    )
+                    response = completion.choices[0].message.content
+                    responses.append(response)
+                return responses
+            except Exception as e:
+                st.error(f"Failed to analyze data with OpenAI: {e}")
+```
+2- set the time for get data.
+**This project is for educational purposes only and is not guaranteed to analyze stock markets**
 The address of the llm analysis sample folder: doucment\result of AAPL.txt
 
 Developer E-mail : dev.bugsbunny2000@gmail.com
